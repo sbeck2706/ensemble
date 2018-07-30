@@ -7,10 +7,10 @@ Corresponding implementations for the ICRA 2018 paper " " by Sven Beck, Mark Pfe
   </tr>
   <tr>
     <td>
-       <img height="400px" src="https://github.com/ethz-asl/modular_semantic_segmentation/raw/publish/synthia.png">
+       <img height="400px" src="https://github.com/sbeck2706/ensemble/blob/master/ped-exit-interaction.png">
     </td>
     <td>
-       <img height="400px" src="https://github.com/ethz-asl/modular_semantic_segmentation/raw/publish/cityscapes.png">
+       <img height="400px" src="https://github.com/sbeck2706/ensemble/blob/master/ped-ped-interaction.png">
     </td>
   </tr>
   <tr>
