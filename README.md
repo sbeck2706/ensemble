@@ -13,14 +13,6 @@ Corresponding implementations for the ICRA 2018 paper " " by Sven Beck, Mark Pfe
        <img height="400px" src="https://github.com/sbeck2706/ensemble/blob/master/ped-ped-interaction.png">
     </td>
   </tr>
-  <tr>
-      <td>
-          <a href="https://nbviewer.jupyter.org/github/ethz-asl/modular_semantic_segmentation/blob/publish/Synthia%20Rand%20Cityscapes%20Examples.ipynb">Reproduce Results</a>
-      </td>
-      <td>
-          <a href="https://nbviewer.jupyter.org/github/ethz-asl/modular_semantic_segmentation/blob/publish/Cityscapes.ipynb">Reproduce Results</a>
-      </td>
-  </tr>
 </table>
 
 # Installation
