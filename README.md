@@ -2,8 +2,8 @@ Corresponding implementations for the ICRA 2018 paper " " by Sven Beck, Mark Pfe
 
 <table>
   <tr>
-     <td>Fusion with Synthia RAND</td>
-     <td>Fusion wuth Cityscapes</td>
+     <td>Pedestrian Exit Interaction</td>
+     <td>Pedestrian Pedestrian Interaction</td>
   </tr>
   <tr>
     <td>
